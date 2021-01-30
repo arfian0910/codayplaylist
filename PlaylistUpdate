@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ZALTV LBKB",BERDOA DULU BIAR LANCAR
 http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fatihah.mp3
-#EXTINF:-1 tvg-logo=""group-title="News",CORONA VIRUS INFO
-http://185.71.64.167:80/307202455671/307202455671/78492
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/net.png", NET.
 https://delivery.macan.tv/stream/id_nettv/playlist.m3u8?token=0sbwu&v=20200807
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/indosiar.png", INDOSIAR
@@ -28,6 +26,8 @@ https://delivery.macan.tv/stream/id_cnbc/playlist.m3u8?token=0sbwu&v=20200807
 https://delivery.macan.tv/stream/id_rajawalitv/playlist.m3u8?token=0sbwu&v=20200807
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/antv.png", ANTV
 https://delivery.macan.tv/stream/id_antv/playlist.m3u8?token=0sbwu&v=20200807
+#EXTINF:-1 tvg-logo=""group-title="News",CORONA VIRUS INFO
+http://185.71.64.167:80/307202455671/307202455671/78493
 #EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne.MACAN" group-title="News" tvg-logo="https://cdn.macan.tv/img/tvone.png", TVOne
 https://delivery.macan.tv/stream/id_tvone/playlist.m3u8?token=0sbwu&v=20200807
 #EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="KompasTv.MACAN" group-title="News" tvg-logo="https://cdn.macan.tv/img/kompastv.png", KOMPAS TV
@@ -352,6 +352,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
 http://185.71.64.167:80/307202455671/307202455671/78492
 #EXTINF:-1 tvg-logo=""group-title="NEWS",CORONA VIRUS INFO
+http://185.71.64.167:80/307202455671/307202455671/78493
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.4ed3229f42de9fbc1266bb0e621dee86.SHINTA" tvg-name"[CODAY] Metro TV _VIDIO" group-title="NEWS",[] Metro TV _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8Hhfk0eHDRj61vC5nbyF7TSXPDo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cd8bd1.png" tvg-id="RIYAN.4be18cedc06565aa02ca342f0997c5b3.SHINTA" tvg-name"[CODAY] NET TV _VIDIO" group-title="LOCAL",[] NET TV _VIDIO
