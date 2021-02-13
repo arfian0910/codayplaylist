@@ -224,6 +224,276 @@ http://langai6.000webhostapp.com/you/koplo.m3u8
 http://langai4.000webhostapp.com/you/djdangdut.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/pvzW9DD/dj.jpg"group-title="MUSIK",DJ DANGDUT
 http://langai4.000webhostapp.com/you/djdangdut.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gmYZMvH/remix.jpg"group-title="MUSIK",REMIX FULLBASS
+http://langai9.000webhostapp.com/you/remixfullbass.m3u8
+
+//ANAK
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Bg764mY/hiphip.png"group-title="ANAK",HIPHIP HOREE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7052
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PFvGNrB/zoomoo.png"group-title="ANAK",ZOO MOO
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6533
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tMckhgk/duck.png"group-title="ANAK",DUCK TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-ducktv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/YB5qS2d/boomerang.png"group-title="ANAK",BOOMERANG
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-boomerang
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tMd0y9C/cartoon.png"group-title="ANAK",CARTOON NETWORK
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-cartoonnetwork
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CWW4k51/duanianak.png"group-title="ANAK",DUNIA ANAK
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-duniaanak
+#EXTINF:-1 tvg-logo="http://i.ibb.co/F7Y5qvP/nick-jr.png"group-title="ANAK",NICK JR
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-nickjr
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SRm5jJJ/nick.png"group-title="ANAK",NICKELODEON
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-nickelodeon
+#EXTINF:-1 tvg-logo="http://i.ibb.co/74MYZSp/mkidz.png"group-title="ANAK",MY KIDS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-mykids
+#EXTINF:-1 tvg-logo="http://i.ibb.co/74MYZSp/mkidz.png"group-title="ANAK",DREAMWORKS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-dreamworks
+#EXTINF:-1 tvg-logo="http://i.ibb.co/pjQXW07/clay.jpg"group-title="ANAK",CLAY MIXER
+http://langai3.000webhostapp.com/you/claymixer.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/x7HgF48/spong.png"group-title="ANAK",SPONGEBOB
+http://langai10.000webhostapp.com/you/spong.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zbvdHH0/tom.jpg"group-title="ANAK",TALKING TOM
+http://langai11.000webhostapp.com/you/tom.m3u8
+
+//PENGETAHUAN
+#EXTINF:-1 tvg-logo="http://i.ibb.co/9GNB29H/smith.png"group-title="PENGETAHUAN",SMITHSONIAN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6550
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0mWZ02V/love.png"group-title="PENGETAHUAN",LOVE NATURE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6635
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wJLtChD/edukasi.png"group-title="PENGETAHUAN",TV EDUKASI
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6838
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wJLtChD/edukasi.png"group-title="PENGETAHUAN",TV EDUKASI
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-tvedukasi
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wJLtChD/edukasi.png"group-title="PENGETAHUAN",TV EDUKASI
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-tvedukasi
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BfbGRCv/natgeo.png"group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-natgeo
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1mjpmjp/people.png"group-title="PENGETAHUAN",NAT GEO PEOPLE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-natgeopeople
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6JbS379/wild.png"group-title="PENGETAHUAN",NAT GEO WILD
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-natgeowild
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Qfbthd1/discovery.png"group-title="PENGETAHUAN",DISCOVERY CHANNEL
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-disco
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zsnhKN0/crime.png"group-title="PENGETAHUAN",CRIME INVESTIGATION
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-crimeinvestigation
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Q9BMxjy/cgtn.png"group-title="PENGETAHUAN",CGTN DOCUMENTARY
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-cgtndocumentary
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SXvrb2P/lingua.png"group-title="PENGETAHUAN",LINGUA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-lingua
+
+//GAYAHIDUP
+#EXTINF:-1 tvg-logo="http://i.ibb.co/ncBt90d/oshop.png"group-title="GAYAHIDUP",O SHOP
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6166
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wsj5jWc/ochannel.png"group-title="GAYAHIDUP",O CHANNEL
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-206
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7gxSdxG/indihome.png"group-title="GAYAHIDUP",INDIHOME SHOPPING
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-indishopping
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nkYSPVy/mshop.png"group-title="GAYAHIDUP",M SHOP
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-mncshop
+#EXTINF:-1 tvg-logo="http://i.ibb.co/b3SS37G/eat.png"group-title="GAYAHIDUP",EAT & GO
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-eatgo
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Sv7B1cQ/fashionone.png"group-title="GAYAHIDUP",FASHION ONE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-fashionone
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Xxb40N1/fashiontv.png"group-title="GAYAHIDUP",FASHION TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-fashiontv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6rRvT4R/hgtv.png"group-title="GAYAHIDUP",HGTV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-hgtv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RDN6Tzm/asian.png"group-title="GAYAHIDUP",ASIAN FOOD NETWORK
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-afc
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RDN6Tzm/asian.png"group-title="GAYAHIDUP",ASIAN FOOD NETWORK
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-afc
+
+//HIBURAN
+#EXTINF:-1 tvg-logo="http://i.ibb.co/w4h2Phm/mola.png"group-title="GAYAHIDUP",MOLA TV
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LYqRMcV/vidio.png"group-title="GAYAHIDUP",VIDIO ENTERTAINMENT
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7352
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Ky9Rxrn/tvn.png"group-title="GAYAHIDUP",TVN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6362
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Ky9Rxrn/tvn.png"group-title="GAYAHIDUP",TVN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-tvn
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DtJ1jkg/citradrama.png"group-title="GAYAHIDUP",CITRA DRAMA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6401
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DtJ1jkg/citradrama.png"group-title="GAYAHIDUP",CITRA DRAMA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-cdrama
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tB94HBL/center.png"group-title="GAYAHIDUP",CITRA ENTERTAINMENT
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6402
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6DHv39z/zing.png"group-title="GAYAHIDUP",ZING
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6747
+#EXTINF:-1 tvg-logo="http://i.ibb.co/sW85XB1/abc.png"group-title="GAYAHIDUP",ABC AUSTRALIA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7150
+#EXTINF:-1 tvg-logo="http://i.ibb.co/sW85XB1/abc.png"group-title="GAYAHIDUP",ABC AUSTRALIA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-abcaustralia
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DL3mCFH/dunialain.png"group-title="GAYAHIDUP",DUNIA LAIN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-dunialain
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zsXNmS1/arirang.png"group-title="GAYAHIDUP",ARIRANG
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-arirang
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0KtC9vB/animax.png"group-title="GAYAHIDUP",ANIMAX
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-animax
+#EXTINF:-1 tvg-logo="http://i.ibb.co/h7gwm7d/aniplus.png"group-title="GAYAHIDUP",ANIPLUS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-aniplus
+#EXTINF:-1 tvg-logo="http://i.ibb.co/c3z75D9/kbs.png"group-title="GAYAHIDUP",KBS WORLD
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-kbsworld
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Sxhqwbc/blueant.png"group-title="GAYAHIDUP",BLUE ANT
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-blueant
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CVjy0by/blueantex.png"group-title="GAYAHIDUP",BLUE ANT EXTREME
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-blueantextreme
+#EXTINF:-1 tvg-logo="http://i.ibb.co/KLcqZmp/nhkpremi.png"group-title="GAYAHIDUP",NHK WORLD PREMIUM
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-nhkpremium
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PGC9Lr8/nhk.png"group-title="GAYAHIDUP",NHK WORLD JAPAN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-nhkworld
+#EXTINF:-1 tvg-logo="http://i.ibb.co/849hWY1/chinese.png"group-title="GAYAHIDUP",CHINESE DRAMA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-chinesedrama
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7tY8JV4/lifetime.png"group-title="GAYAHIDUP",LIFETIME
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-lifetime
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3Ymdv1x/history.png"group-title="GAYAHIDUP",HISTORY
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-history
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QCMGhRW/kix.png"group-title="GAYAHIDUP",KIX
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-kix
+#EXTINF:-1 tvg-logo="http://i.ibb.co/47PT8Vj/waku.png"group-title="GAYAHIDUP",WAKU WAKU JAPAN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-wakuwaku
+#EXTINF:-1 tvg-logo="http://i.ibb.co/x36SMQY/warner.png"group-title="GAYAHIDUP",WARNER
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-warner
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fgcbj5z/cctv4.png"group-title="GAYAHIDUP",CCTV4
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-cctv4
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6sP9yhJ/gem.png"group-title="GAYAHIDUP",SONY GEM TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-sgem
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QX1Hgyr/one.png"group-title="GAYAHIDUP",SONY ONE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-sone
+#EXTINF:-1 tvg-logo="http://i.ibb.co/k6nX4gS/k.png"group-title="GAYAHIDUP",K+
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-kplus
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Kymk2SR/tv5monde.png"group-title="GAYAHIDUP",TV5MONDE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-tv5monde
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fgptvc8/formosa.png"group-title="GAYAHIDUP",FORMOSA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-formosa
+#EXTINF:-1 tvg-logo="http://i.ibb.co/H74mwyy/ctiasia.png"group-title="GAYAHIDUP",CTI ASIA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-ctiasia
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2Fx6jQF/ebcasia.png"group-title="GAYAHIDUP",EBC ASIA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-ettvasia
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2tTRM0B/outdoor.png"group-title="GAYAHIDUP",OUTDOOR CHANNEL
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-outdoor
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2tTRM0B/outdoor.png"group-title="GAYAHIDUP",EL JOHN TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-eljohn
+
+//RELIGI
+#EXTINF:-1 tvg-logo="http://i.ibb.co/fnjZHs3/ajwa.png"group-title="RELIGI",AJWA TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7464
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RpDVM0G/quran.png"group-title="RELIGI",AL QURAN AL KAREEM
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6852
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RpDVM0G/quran.png"group-title="RELIGI",AL QURAN AL KAREEM
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-alquran
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RpDVM0G/quran.png"group-title="RELIGI",AL QURAN AL KAREEM
+http://langai8.000webhostapp.com/you/makkah.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/5G1jXkP/r21.png"group-title="RELIGI",REFORMED 21
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6853
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DRR0PWX/cmuslim.png"group-title="RELIGI",CITRA MUSLIM
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6678
+#EXTINF:-1 tvg-logo="http://i.ibb.co/dbkHsSv/uchan.png"group-title="RELIGI",U CHANNEL
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6898
+#EXTINF:-1 tvg-logo="http://i.ibb.co/dbkHsSv/uchan.png"group-title="RELIGI",U CHANNEL
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-uchannel
+#EXTINF:-1 tvg-logo="http://i.ibb.co/YpBG6b2/rodja.png"group-title="RELIGI",RODJA TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-rodjatv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tCnmn4s/tawaf.png"group-title="RELIGI",TAWAF TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-tawaftv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BKJqhTN/mtatv.png"group-title="RELIGI",MTA TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-mtatv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WgzWxxM/mui.png"group-title="RELIGI",MUI TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-muitv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gjmJkfJ/mqtv.png"group-title="RELIGI",MQ TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-mqtv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/56WKQNw/tv9.png"group-title="RELIGI",TV9 NU
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-tv9
+#EXTINF:-1 tvg-logo="http://i.ibb.co/KyWZwjR/mu.png"group-title="RELIGI",MUHAMMADIYAH TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-muhammadiyahtv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/NZLxkC3/madinah.png"group-title="RELIGI",ASSUNNAH NABAWIYAH
+http://langai7.000webhostapp.com/you/madinah.m3u8
+
+
+//RADIO
+#EXTINF:-1 tvg-logo="http://i.ibb.co/syNkDJR/prambors.png"group-title="RADIO",PRAMBORS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7004
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gM3x2PR/hardrockfm.png"group-title="RADIO",HARDROCK
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7053
+#EXTINF:-1 tvg-logo="http://i.ibb.co/HVQsRd0/brava.png"group-title="RADIO",BRAVA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7054
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zxSrPHd/trax.png"group-title="RADIO",TRAX
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7055
+#EXTINF:-1 tvg-logo="http://i.ibb.co/J7gmbM2/cosmo.png"group-title="RADIO",COSMOPOLITAN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7056
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QkF1bDh/iradio.png"group-title="RADIO",i-RADIO
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7057
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hMMrSNj/bahana.png"group-title="RADIO",BAHANA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7091
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Smc4p9D/deltafm.png"group-title="RADIO",DELTA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7092
+#EXTINF:-1 tvg-logo="http://i.ibb.co/KKdd9cv/female.png"group-title="RADIO",FEMALE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7130
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tYGvYtz/elshinta.png"group-title="RADIO",ELSHINTA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7166
+#EXTINF:-1 tvg-logo="http://i.ibb.co/j3DRdwj/elgangga.png"group-title="RADIO",ELGANGGA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7169
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Pwmgtsx/elmitra.png"group-title="RADIO",ELMITRA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7170
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hHdNWYt/ardanfm.png"group-title="RADIO",ARDAN
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7184
+#EXTINF:-1 tvg-logo="http://i.ibb.co/F5D14ZF/mgt.png"group-title="RADIO",MGT
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7188
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6RH7RGT/geronimo.png"group-title="RADIO",GERONIMO
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7216
+#EXTINF:-1 tvg-logo="http://i.ibb.co/4Fyr1Tm/shusi.png"group-title="RADIO",SUSHI
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7218
+#EXTINF:-1 tvg-logo="http://i.ibb.co/MDP8tZy/dahlia.png"group-title="RADIO",DAHLIA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7242
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8XXHn4J/swaragama.png"group-title="RADIO",SWARAGAMA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7248
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yspjdcm/imelda.png"group-title="RADIO",IMELDA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7281
+#EXTINF:-1 tvg-logo="http://i.ibb.co/P1pzdJk/swara-smarang.png"group-title="RADIO",SWARA SEMARANG
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7283
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SxYkDB1/gajah.png"group-title="RADIO",GAJAHMADA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7284
+#EXTINF:-1 tvg-logo="http://i.ibb.co/ZGh8BWT/cakra.png"group-title="RADIO",CAKRA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7297
+#EXTINF:-1 tvg-logo="http://i.ibb.co/9vX60HD/genfm.png"group-title="RADIO",GEN JAKARTA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7443
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tqwBq0Y/kisfm.png"group-title="RADIO",KIS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7445
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7jCXChY/gensuabaya.png"group-title="RADIO",GEN SURABAYA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7446
+#EXTINF:-1 tvg-logo="http://i.ibb.co/XWXJGSW/mustang-fm.png"group-title="RADIO",MUSTANG
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7447
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RgSL43h/hot.png"group-title="RADIO",HOT
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7448
+#EXTINF:-1 tvg-logo="http://i.ibb.co/bKFHYN1/jakfm.png"group-title="RADIO",JAK
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7449
+#EXTINF:-1 tvg-logo="http://i.ibb.co/pbXqTkN/mostfm.png"group-title="RADIO",MOST RADIO
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7450
+
+//HBO CLUB
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7pqpvjD/hbo.png"group-title="HBO CLUB",HBO
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-hbo
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7pqpvjD/hbo.png"group-title="HBO CLUB",HBO (INDO)
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-hboi
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DgnGWwZ/Hbo-family.png"group-title="HBO CLUB",HBO FAMILY
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-fam
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DgnGWwZ/Hbo-family.png"group-title="HBO CLUB",HBO FAMILY (INDO)
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-fami
+#EXTINF:-1 tvg-logo="http://i.ibb.co/25JSdsR/HBOHits-ASIA.png"group-title="HBO CLUB",HBO HITS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-hits
+#EXTINF:-1 tvg-logo="http://i.ibb.co/25JSdsR/HBOHits-ASIA.png"group-title="HBO CLUB",HBO HITS (INDO)
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-hitsi
+#EXTINF:-1 tvg-logo="http://i.ibb.co/09Jp8CR/sig.png"group-title="HBO CLUB",HBO SIGNATURE
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-sig
+#EXTINF:-1 tvg-logo="http://i.ibb.co/09Jp8CR/sig.png"group-title="HBO CLUB",HBO SIGNATURE (INDO)
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-sigi
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PFwBhMH/cinemax.png"group-title="HBO CLUB",HBO CINEMAX
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-max
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PFwBhMH/cinemax.png"group-title="HBO CLUB",HBO CINEMAX (INDO)
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-maxi
+#EXTINF:-1 tvg-logo="http://i.ibb.co/XWtzYnM/Screen-RED-logo.jpg"group-title="HBO CLUB",HBO RED
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=h-red
+
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.7d05afd1a4443cd7402f0a0ac2887936.SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="LOCAL",[] Indosiar _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
@@ -241,7 +511,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",[] TVONE 
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LveTiruIzIi7xfIe0bp6BH097SY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/5ed6aa.png" tvg-id="RIYAN.1c6f66524ff9dfa1b90ccb335ead20cc.SHINTA" tvg-name"[CODAY] Kompas TV _VIDIO" group-title="LOCAL",[] Kompas TV _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZMhxlBLkvFjPT9JwTJDQDP03hGo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/1cfec2.png" tvg-id="RIYAN.3ac8e3f08704c0bdf333acf37f950b4e.SHINTA" tvg-name"[CODAY] BeritaSatu _VIDIO" group-title="LOCAL",[] BeritaSatu _VIDIO
